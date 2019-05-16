@@ -1,4 +1,4 @@
-#hesaplama
+#lineer denklem- hesaplama
 import numpy as np
 import pandas as pd
 df = pd.read_csv("linear_reg.csv",sep=";")
